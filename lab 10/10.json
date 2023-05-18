@@ -1,0 +1,70 @@
+{
+    "products": [
+        {
+            "name": "Шоколад",
+            "price": 50,
+            "available": true,
+            "weight": 100
+        },
+        {
+            "name": "Чай",
+            "price": 100,
+            "available": false,
+            "weight": 250
+        },
+        {
+            "name": "Человек",
+            "price": 70,
+            "available": true,
+            "weight": 50
+        },
+        {
+            "name": "аааааааааа",
+            "price": "84",
+            "available": "True",
+            "weight": "54"
+        },
+        {
+            "name": "dhmj",
+            "price": "dfjh",
+            "available": "fh",
+            "weight": "dhfn"
+        },
+        {
+            "name": "ds,.fmg",
+            "price": "dflmhfl",
+            "available": "kdnfsgh",
+            "weight": "bndgs"
+        },
+        {
+            "name": "mjfh",
+            "price": "dfkhj",
+            "available": "dfkhj",
+            "weight": "bdnf"
+        },
+        {
+            "name": "sdjgoidjpogj]\\asnjgkd",
+            "price": "anh",
+            "available": "adhf",
+            "weight": "bndhfa"
+        },
+        {
+            "name": "as;dhkjo",
+            "price": "dafnh",
+            "available": "adsfhj",
+            "weight": "asdfhn"
+        },
+        {
+            "name": "ывлорок",
+            "price": "вьофрав",
+            "available": "втафр",
+            "weight": "фватр"
+        },
+        {
+            "name": "kdjshngkd",
+            "price": "dsjghl",
+            "available": "kdsjgh",
+            "weight": "kjsdgh"
+        }
+    ]
+}
